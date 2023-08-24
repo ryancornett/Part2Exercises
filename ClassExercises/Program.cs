@@ -1,3 +1,4 @@
 ﻿using ClassExercises;
 
-UILogic.RunStopwatch();
+// UILogic.RunStopwatch();
+UILogic.ManagePosts();
